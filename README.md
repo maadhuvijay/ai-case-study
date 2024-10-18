@@ -16,7 +16,7 @@
   
 * How is the company funded? How much funding have they received?  
     H2O.ai is a developer of open-source artificial intelligence and automatic machine learning platform designed for enterprises. Per Forge data, H2O.ai raised $251.1 million in funding over 9 rounds. Their latest funding was raised on May 12, 2023. Key investors include Goldman Sachs, Commonwealth Bank of Australia, Paxion Capital Partners, Wells Fargo, and Celesta Capital.
-   ##### H2O’s major investors are
+   ##### H2O.ai’s major investors are
         Veligera capital
         2Shares
         Goldman Sachs
@@ -36,7 +36,7 @@
   
     H2O.ai is the trusted AI partner to more than 20,000 global organizations, including AT&T, Allergan, Bon Secours Mercy Health, Capital One, Commonwealth Bank of Australia, GlaxoSmithKline, Hitachi, Kaiser Permanente, Procter & Gamble, PayPal, PwC, Reckitt, Unilever, and Walgreens, over half of the Fortune 500 and one million data scientists. In the Artificial Intelligence category, H2O has a market share of about 0.1%. 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* What solution does this company offer that their competitors do not or cannot offer? 
   
     1.  Open-source ML platform 
     2.  AutoML with Explainable AI – focus on explainable AI (XAI) for better transparency and compliance.
@@ -44,7 +44,7 @@
     4.	Comprehensive AI cloud Ecosystem which integrates with enterprise workflows and allows companies to manage their entire AI lifecycle in one place.
     5.	Democratized AI solutions that cater to both technical and non-technical users.
        
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Which technologies are they currently using, and how are they implementing them? 
   
     H2O-3 is built in Java and Scala and integrates with R, Python and works on existing big data infrastructure, on           bare metal or on top of existing Hadoop, Spark or Kubernetes clusters.
 
@@ -114,3 +114,8 @@
     7. Keras-RL: This library integrates with Keras, allowing users to easily implement RL algorithms such as DQN and Deep Deterministic Policy Gradient (DDPG) with Keras models.
     8. AWS SageMaker RL: Amazon provides cloud-based reinforcement learning as a service via SageMaker, enabling users to train RL models at scale using various environments, including OpenAI Gym, Unity, and custom simulations.
        
+*References*
+1. [H2O.ai](https://h2o.ai/)
+2. (https://www.crunchbase.com/organization/h2o-2)
+3. (https://chatgpt.com/)
+4. (https://enlyft.com/tech/products/h2o)
