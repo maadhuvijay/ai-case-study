@@ -4,9 +4,9 @@
 
 ## Overview and Origin
 
-* Name of company
+* Name of company\
     H2O.ai is an AI cloud company on a mission to democratize AI for everyone. Customers use the H2O AI Cloud platform to rapidly make, operate and innovate to solve complex business problems and accelerate the discovery of new ideas
-* When was the company incorporated?
+* When was the company incorporated?\
     H2O.ai was founded in 2012. The company is headquartered in Mountain view, California
 * Who are the founders of the company?
     H2O.ai was founded by Sri Ambati, along with Cliff Click 
@@ -31,7 +31,7 @@
 * What specific problem is the company or project trying to solve?
     H2O.ai is a leading open-source platform for artificial intelligence (AI) and machine learning. The company offers a suite of products designed to make AI accessible and scalable for businesses, ranging from startups to Fortune 500 companies.
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
-	H2O.ai is the trusted AI partner to more than 20,000 global organizations, including AT&T, Allergan, Bon Secours Mercy Health, Capital One, Commonwealth Bank of Australia, GlaxoSmithKline, Hitachi, Kaiser Permanente, Procter & Gamble, PayPal, PwC, Reckitt, Unilever, and Walgreens, over half of the Fortune 500 and one million data scientists.
+     H2O.ai is the trusted AI partner to more than 20,000 global organizations, including AT&T, Allergan, Bon Secours Mercy Health, Capital One, Commonwealth Bank of Australia, GlaxoSmithKline, Hitachi, Kaiser Permanente, Procter & Gamble, PayPal, PwC, Reckitt, Unilever, and Walgreens, over half of the Fortune 500 and one million data scientists.
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
     1.  Open-source ML platform 
     2.  AutoML with Explainable AI – focus on explainable AI (XAI) for better transparency and compliance.
