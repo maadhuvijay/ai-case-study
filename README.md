@@ -95,20 +95,22 @@
 
 * What technologies would this additional product or service utilize?
   
-    •	Q-Learning algorithms\
-    •	Deep learning frameworks for RL - TensorFlow, PyTorch\
-    •	OpenAI 	Gym\
-    •	Hardware – GPUs, Edge devices\
-    •	RL Libraries – Tensor force, Keras-RL\
-    •	Cloud based RL platforms\ 	
+    1. Q-Learning algorithms
+    2. Deep learning frameworks for RL - TensorFlow, PyTorch
+    3. OpenAI 	Gym
+    4. Hardware – GPUs, Edge devices
+    5. RL Libraries – Tensor force, Keras-RL
+    6. Cloud based RL platforms 	
 
 * Why are these technologies appropriate for your solution?
   
-     o	Q-Learning is a popular model-free reinforcement learning algorithm that seeks to find the best action to take          in a given state by learning the value of state-action pairs.
-     o	TensorFlow and PyTorch  frameworks are widely used for implementing deep learning in RL.
-     o	OpenAI Gym is one of the most popular toolkits for developing and comparing RL algorithms.
-     o	GPUs -Reinforcement learning, especially when using deep neural networks (Deep RL), relies heavily on GPU               acceleration.
-     o	Edge Devices: For deploying RL models in real-time systems like robotics or autonomous vehicles, RL models are          optimized for edge computing environments, often using specialized hardware like NVIDIA Jetson or Intel Movidius.
-     o	Tensorforce: A high-level RL library built on TensorFlow, it is designed to be highly modular and customizable,         making it easier to implement new RL algorithms and test them in various environments.
-     o	Keras-RL: This library integrates with Keras, allowing users to easily implement RL algorithms such as DQN and          Deep Deterministic Policy Gradient (DDPG) with Keras models.
-     o	AWS SageMaker RL: Amazon provides cloud-based reinforcement learning as a service via SageMaker, enabling users to      train RL models at scale using various environments, including OpenAI Gym, Unity, and custom simulations.
+     These technologies provide the environment for Reinforcement learning	
+    1. Q-Learning: A popular model-free reinforcement learning algorithm that seeks to find the best action to take in a given state by learning the value of state-action pairs.
+    2. TensorFlow and PyTorch: These two frameworks are widely used for implementing deep learning in RL.
+    3. OpenAI Gym: One of the most popular toolkits for developing and comparing RL algorithms.
+    4. GPUs: Reinforcement learning, especially when using deep neural networks (Deep RL), relies heavily on GPU acceleration.
+    5. Edge Devices: For deploying RL models in real-time systems like robotics or autonomous vehicles, RL models are optimized for edge computing environments, often using specialized hardware like NVIDIA Jetson or Intel Movidius.
+    6. Tensorforce: A high-level RL library built on TensorFlow, it is designed to be highly modular and customizable, making it easier to implement new RL algorithms and test them in various environments.
+    7. Keras-RL: This library integrates with Keras, allowing users to easily implement RL algorithms such as DQN and Deep Deterministic Policy Gradient (DDPG) with Keras models.
+    8. AWS SageMaker RL: Amazon provides cloud-based reinforcement learning as a service via SageMaker, enabling users to train RL models at scale using various environments, including OpenAI Gym, Unity, and custom simulations.
+       
