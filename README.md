@@ -34,7 +34,7 @@
     H2O.ai is a leading open-source platform for artificial intelligence (AI) and machine learning. The company offers a suite of products designed to make AI accessible and scalable for businesses, ranging from startups to Fortune 500 companies.
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
   
-    H2O.ai is the trusted AI partner to more than 20,000 global organizations, including AT&T, Allergan, Bon Secours Mercy Health, Capital One, Commonwealth Bank of Australia, GlaxoSmithKline, Hitachi, Kaiser Permanente, Procter & Gamble, PayPal, PwC, Reckitt, Unilever, and Walgreens, over half of the Fortune 500 and one million data scientists.
+    H2O.ai is the trusted AI partner to more than 20,000 global organizations, including AT&T, Allergan, Bon Secours Mercy Health, Capital One, Commonwealth Bank of Australia, GlaxoSmithKline, Hitachi, Kaiser Permanente, Procter & Gamble, PayPal, PwC, Reckitt, Unilever, and Walgreens, over half of the Fortune 500 and one million data scientists. In the Artificial Intelligence category, H2O has a market share of about 0.1%. 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
   
