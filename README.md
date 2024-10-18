@@ -4,20 +4,24 @@
 
 * Name of company
   
-    H2O.ai is an AI cloud company on a mission to democratize AI for everyone. Customers use the H2O AI Cloud platform to rapidly make, operate and innovate to solve complex business problems and accelerate the discovery of new ideas
+    **H2O.ai** is an AI cloud company on a mission to democratize AI for everyone. Customers use the H2O AI Cloud platform to rapidly make, operate and innovate to solve complex business problems and accelerate the discovery of new ideas
+  
 * When was the company incorporated?
   
     H2O.ai was founded in 2012. The company is headquartered in Mountain view, California
+  
 * Who are the founders of the company?
   
-    H2O.ai was founded by Sri Ambati, along with Cliff Click 
+    H2O.ai was founded by Sri Ambati, along with Cliff Click
+  
 * How did the idea for the company (or project) come about?
   
-    H2O.ai began as a vision to democratize artificial intelligence and make machine learning accessible to a broader audience. It was a startup that has developed an open-source framework as well as proprietary apps that make it easier for any kind of enterprise to build and operate artificial intelligence-based services.		 
+    H2O.ai began as a vision to democratize artificial intelligence and make machine learning accessible to a broader audience. It was a startup that has developed an open-source framework as well as proprietary apps that make it easier for any kind of enterprise to build and operate artificial intelligence-based services.
+  
 * How is the company funded? How much funding have they received?
   
     H2O.ai is a developer of open-source artificial intelligence and automatic machine learning platform designed for enterprises. Per Forge data, H2O.ai raised $251.1 million in funding over 9 rounds. Their latest funding was raised on May 12, 2023. Key investors include Goldman Sachs, Commonwealth Bank of Australia, Paxion Capital Partners, Wells Fargo, and Celesta Capital.
- ##### H2O’s major investors are
+   ##### H2O’s major investors are
         Veligera capital
         2Shares
         Goldman Sachs
@@ -30,10 +34,13 @@
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?\
-    **H2O.ai** is a leading open-source platform for artificial intelligence (AI) and machine learning. The company offers a suite of products designed to make AI accessible and scalable for businesses, ranging from startups to Fortune 500 companies.
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?\
-     H2O.ai is the trusted AI partner to more than 20,000 global organizations, including AT&T, Allergan, Bon Secours Mercy Health, Capital One, Commonwealth Bank of Australia, GlaxoSmithKline, Hitachi, Kaiser Permanente, Procter & Gamble, PayPal, PwC, Reckitt, Unilever, and Walgreens, over half of the Fortune 500 and one million data scientists.
+* What specific problem is the company or project trying to solve?
+  
+    H2O.ai is a leading open-source platform for artificial intelligence (AI) and machine learning. The company offers a suite of products designed to make AI accessible and scalable for businesses, ranging from startups to Fortune 500 companies.
+* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+  
+    H2O.ai is the trusted AI partner to more than 20,000 global organizations, including AT&T, Allergan, Bon Secours Mercy Health, Capital One, Commonwealth Bank of Australia, GlaxoSmithKline, Hitachi, Kaiser Permanente, Procter & Gamble, PayPal, PwC, Reckitt, Unilever, and Walgreens, over half of the Fortune 500 and one million data scientists.
+
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
   
     1.  Open-source ML platform 
@@ -41,6 +48,7 @@
     3.	Deep customization and flexibility for expert users, enabling control over AutoML pipelines.
     4.	Comprehensive AI cloud Ecosystem which integrates with enterprise workflows and allows companies to manage their entire AI lifecycle in one place.
     5.	Democratized AI solutions that cater to both technical and non-technical users.
+       
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
   
     H2O-3 is built in Java and Scala and integrates with R, Python and works on existing big data infrastructure, on           bare metal or on top of existing Hadoop, Spark or Kubernetes clusters.
@@ -49,7 +57,7 @@
 
 * What field is the company in?
  
-    Founded in 2012, H2O.ai is at the forefront of the AI movement to democratize Generative AI. H2O.ai’s open source Generative AI and Enterprise h2oGPTe, combined with Document AI and the award-winning autoML Driverless AI, have transformed more than 20,000 global organizations and over half of the Fortune 500 and household brands, including AT&T, Commonwealth Bank of Australia, PayPal, Chipotle, ADP, Workday, Progressive Insurance and AES. H2O.ai’s AI for Good program supports nonprofit groups, foundations and communities in their efforts to advance education, healthcare, and environmental conservation, including identifying areas vulnerable to natural disasters and protecting endangered species. H2O.ai has a vibrant community of 2 million data scientists worldwide, and aims to bring together the world’s top data scientists with customers to co-create GenAI applications that are usable and valuable by everyone. Business users can now leverage the power of LLMs to enhance productivity with enterprise applications.
+    Founded in 2012, H2O.ai is at the forefront of the AI movement to democratize Generative AI. H2O.ai’s open source          Generative AI and Enterprise h2oGPTe, combined with Document AI and the award-winning autoML Driverless AI, have           transformed more than 20,000 global organizations and over half of the Fortune 500 and household brands, including     AT&T, Commonwealth Bank of Australia, PayPal, Chipotle, ADP, Workday, Progressive Insurance and AES. H2O.ai’s AI for Good program supports nonprofit groups, foundations and communities in their efforts to advance education, healthcare, and environmental conservation, including identifying areas vulnerable to natural disasters and protecting endangered species. H2O.ai has a vibrant community of 2 million data scientists worldwide, and aims to bring together the world’s top data scientists with customers to co-create GenAI applications that are usable and valuable by everyone. Business users can now leverage the power of LLMs to enhance productivity with enterprise applications.
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
   
