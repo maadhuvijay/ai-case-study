@@ -2,24 +2,19 @@
 
 ## Overview and Origin
 
-* Name of company
-  
+* Name of company  
     **H2O.ai** is an AI cloud company on a mission to democratize AI for everyone. Customers use the H2O AI Cloud platform to rapidly make, operate and innovate to solve complex business problems and accelerate the discovery of new ideas
   
-* When was the company incorporated?
-  
+* When was the company incorporated?  
     H2O.ai was founded in 2012. The company is headquartered in Mountain view, California
   
-* Who are the founders of the company?
-  
+* Who are the founders of the company?  
     H2O.ai was founded by Sri Ambati, along with Cliff Click
   
-* How did the idea for the company (or project) come about?
-  
+* How did the idea for the company (or project) come about?  
     H2O.ai began as a vision to democratize artificial intelligence and make machine learning accessible to a broader audience. It was a startup that has developed an open-source framework as well as proprietary apps that make it easier for any kind of enterprise to build and operate artificial intelligence-based services.
   
-* How is the company funded? How much funding have they received?
-  
+* How is the company funded? How much funding have they received?  
     H2O.ai is a developer of open-source artificial intelligence and automatic machine learning platform designed for enterprises. Per Forge data, H2O.ai raised $251.1 million in funding over 9 rounds. Their latest funding was raised on May 12, 2023. Key investors include Goldman Sachs, Commonwealth Bank of Australia, Paxion Capital Partners, Wells Fargo, and Celesta Capital.
    ##### H2O’s major investors are
         Veligera capital
@@ -57,7 +52,7 @@
 
 * What field is the company in?
  
-    Founded in 2012, H2O.ai is at the forefront of the AI movement to democratize Generative AI. H2O.ai’s open source          Generative AI and Enterprise h2oGPTe, combined with Document AI and the award-winning autoML Driverless AI, have           transformed more than 20,000 global organizations and over half of the Fortune 500 and household brands, including     AT&T, Commonwealth Bank of Australia, PayPal, Chipotle, ADP, Workday, Progressive Insurance and AES. H2O.ai’s AI for Good program supports nonprofit groups, foundations and communities in their efforts to advance education, healthcare, and environmental conservation, including identifying areas vulnerable to natural disasters and protecting endangered species. H2O.ai has a vibrant community of 2 million data scientists worldwide, and aims to bring together the world’s top data scientists with customers to co-create GenAI applications that are usable and valuable by everyone. Business users can now leverage the power of LLMs to enhance productivity with enterprise applications.
+      Founded in 2012, H2O.ai is at the forefront of the AI movement to democratize Generative AI. H2O.ai’s open source          Generative AI and Enterprise h2oGPTe, combined with Document AI and the award-winning autoML Driverless AI, have           transformed more than 20,000 global organizations and over half of the Fortune 500 and household brands, including         AT&T, Commonwealth Bank of Australia, PayPal, Chipotle, ADP, Workday, Progressive Insurance and AES. H2O.ai’s AI for       Good program supports nonprofit groups, foundations and communities in their efforts to advance education,                 healthcare, and environmental conservation, including identifying areas vulnerable to natural disasters and                protecting endangered species. H2O.ai has a vibrant community of 2 million data scientists worldwide, and aims to          bring together the world’s top data scientists with customers to co-create GenAI applications that are usable and          valuable by everyone. Business users can now leverage the power of LLMs to enhance productivity with enterprise            applications.
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
   
@@ -90,31 +85,30 @@
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
   
-*Reinforcement Learning (RL)*\
-Reinforcement learning is gaining importance for use cases where AI models need to make sequential decisions, such as in robotics, autonomous systems, and dynamic resource allocation.\ 
-Potential Applications include Autonomous vehicles, inventory management, and recommendation engines.
+    *Reinforcement Learning (RL)*\
+    Reinforcement learning is gaining importance for use cases where AI models need to make sequential decisions, such         as in robotics, autonomous systems, and dynamic resource allocation.\ 
+    Potential Applications include Autonomous vehicles, inventory management, and recommendation engines.
 
 * Why do you think that offering this product or service would benefit the company?
   
-      While H2O.ai currently excels in supervised and unsupervised learning, expanding into Reinforcement Learning would open new markets and applications.
+    While H2O.ai currently excels in supervised and unsupervised learning, expanding into Reinforcement Learning would         open new markets and applications.
 
 * What technologies would this additional product or service utilize?
   
-    •	Q-Learning algorithms
-    •	Deep learning frameworks for RL - TensorFlow, PyTorch
-    •	OpenAI 	Gym
-    •	Hardware – GPUs, Edge devices
-    •	RL Libraries – Tensor force, Keras-RL
-    •	Cloud based RL platforms 	
+    •	Q-Learning algorithms\
+    •	Deep learning frameworks for RL - TensorFlow, PyTorch\
+    •	OpenAI 	Gym\
+    •	Hardware – GPUs, Edge devices\
+    •	RL Libraries – Tensor force, Keras-RL\
+    •	Cloud based RL platforms\ 	
 
 * Why are these technologies appropriate for your solution?
   
-        These technologies provide the environment for Reinforcement learning	
-        o	Q-Learning: A popular model-free reinforcement learning algorithm that seeks to find the best action to take in a given state by learning the value of state-action pairs.
-        o	TensorFlow and PyTorch: These two frameworks are widely used for implementing deep learning in RL.
-        o	OpenAI Gym: One of the most popular toolkits for developing and comparing RL algorithms.
-        o	GPUs: Reinforcement learning, especially when using deep neural networks (Deep RL), relies heavily on GPU acceleration.
-        o	Edge Devices: For deploying RL models in real-time systems like robotics or autonomous vehicles, RL models are optimized for edge computing environments, often using specialized hardware like NVIDIA Jetson or Intel Movidius.
-        o	Tensorforce: A high-level RL library built on TensorFlow, it is designed to be highly modular and customizable, making it easier to implement new RL algorithms and test them in various environments.
-        o	Keras-RL: This library integrates with Keras, allowing users to easily implement RL algorithms such as DQN and Deep Deterministic Policy Gradient (DDPG) with Keras models.
-        o	AWS SageMaker RL: Amazon provides cloud-based reinforcement learning as a service via SageMaker, enabling users to train RL models at scale using various environments, including OpenAI Gym, Unity, and custom simulations.
+     o	Q-Learning is a popular model-free reinforcement learning algorithm that seeks to find the best action to take          in a given state by learning the value of state-action pairs.
+     o	TensorFlow and PyTorch  frameworks are widely used for implementing deep learning in RL.
+     o	OpenAI Gym is one of the most popular toolkits for developing and comparing RL algorithms.
+     o	GPUs -Reinforcement learning, especially when using deep neural networks (Deep RL), relies heavily on GPU               acceleration.
+     o	Edge Devices: For deploying RL models in real-time systems like robotics or autonomous vehicles, RL models are          optimized for edge computing environments, often using specialized hardware like NVIDIA Jetson or Intel Movidius.
+     o	Tensorforce: A high-level RL library built on TensorFlow, it is designed to be highly modular and customizable,         making it easier to implement new RL algorithms and test them in various environments.
+     o	Keras-RL: This library integrates with Keras, allowing users to easily implement RL algorithms such as DQN and          Deep Deterministic Policy Gradient (DDPG) with Keras models.
+     o	AWS SageMaker RL: Amazon provides cloud-based reinforcement learning as a service via SageMaker, enabling users to      train RL models at scale using various environments, including OpenAI Gym, Unity, and custom simulations.
