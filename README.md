@@ -9,7 +9,7 @@
     H2O.ai was founded in 2012. The company is headquartered in Mountain view, California
   
 * Who are the founders of the company?  
-    H2O.ai was founded by Sri Ambati, along with Cliff Click
+    H2O.ai was founded by Sri Ambati, along with Cliff Click.
   
 * How did the idea for the company (or project) come about?  
     H2O.ai began as a vision to democratize artificial intelligence and make machine learning accessible to a broader audience. It was a startup that has developed an open-source framework as well as proprietary apps that make it easier for any kind of enterprise to build and operate artificial intelligence-based services.
@@ -40,13 +40,18 @@
   
     1.  Open-source ML platform 
     2.  AutoML with Explainable AI – focus on explainable AI (XAI) for better transparency and compliance.
-    3.	Deep customization and flexibility for expert users, enabling control over AutoML pipelines.
-    4.	Comprehensive AI cloud Ecosystem which integrates with enterprise workflows and allows companies to manage their entire AI lifecycle in one place.
-    5.	Democratized AI solutions that cater to both technical and non-technical users.
+    3.  Deep customization and flexibility for expert users, enabling control over AutoML pipelines.
+    4.  Comprehensive AI cloud Ecosystem which integrates with enterprise workflows and allows companies to manage their           entire AI lifecycle in one place.
+    5.  Democratized AI solutions that cater to both technical and non-technical users.
        
 * Which technologies are they currently using, and how are they implementing them? 
   
-    H2O-3 is built in Java and Scala and integrates with R, Python and works on existing big data infrastructure, on           bare metal or on top of existing Hadoop, Spark or Kubernetes clusters.
+    1. H2O open source (H2O-3): Java based and integrates with various programming languages and tools, including: Python, 
+       R, and H2O flow.
+    2. H2O Driverless AI - Automated Machine Learning (AutoML), GPU Acceleration, Explainable AI(XAI).
+    3. H2O Wave -AI application framework, Web-based Visualization, Python-based.
+    4. H2O Sparkling water - Integration with Apache Spark.
+    5. H2O.ai Cloud provides a comprehensive cloud platform.
 
 ## Landscape
 
@@ -61,6 +66,7 @@
     3.	IBM’s Watson AI focuses on applying AI to business solutions, particularly in areas such as healthcare, finance and customer service.
     4.	Nvidia’s GPUs (Graphics processing units) are widely used in AI research and development, with a strong focus on autonomous vehicles, AI in healthcare, and high-performance computing.
     5.	Microsoft AI supports products like Azure AI, Power BI and Microsoft 365, focusing on natural language processing, machine learning and AI-driven business intelligence.
+    6.	H2O.ai is used for predictive analytics, fraud detection, and customer churn prediction.
 
 * What are the other major companies in this field?
   
@@ -74,10 +80,10 @@
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
-    1.	Funding: H20.ai raised around $251.1 million in funding over 9 rounds with notable investors such as Commonwealth Bank of Australia and Goldman Sachs Growth Equity.
-    2.	Revenue Model: Primarily, the company generates revenue through enterprise subscriptions for its advanced offerings, such as H2O Driverless AI. Additionally, H2O.ai monetizes through professional services providing AI solutions and consulting to help businesses solve specific challenges and optimize their operations.
-    3.	Company size: As of 2024, the company has around 376 employees, showing significant growth since its founding in 2021.
-    4.	Market share: In the Artificial Intelligence category, H2O has a market share of about 0.1%. 
+    1.	**Funding:** H20.ai raised around $251.1 million in funding over 9 rounds with notable investors such as Commonwealth Bank of Australia and Goldman Sachs Growth Equity.
+    2.	**Revenue Model:** Primarily, the company generates revenue through enterprise subscriptions for its advanced offerings, such as H2O Driverless AI. Additionally, H2O.ai monetizes through professional services providing AI solutions and consulting to help businesses solve specific challenges and optimize their operations.
+    3.	**Company size:** As of 2024, the company has around 376 employees, showing significant growth since its founding in 2021.
+    4.	**Market share:** In the Artificial Intelligence category, H2O has a market share of about 0.1%. 
 
 * How is your company performing relative to competitors in the same field?
 
@@ -85,7 +91,7 @@
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
   
-    *Reinforcement Learning (RL)*\
+    ***Reinforcement Learning (RL)***\
     Reinforcement learning is gaining importance for use cases where AI models need to make sequential decisions, such         as in robotics, autonomous systems, and dynamic resource allocation.\ 
     Potential Applications include Autonomous vehicles, inventory management, and recommendation engines.
 
@@ -97,7 +103,7 @@
   
     1. Q-Learning algorithms
     2. Deep learning frameworks for RL - TensorFlow, PyTorch
-    3. OpenAI 	Gym
+    3. OpenAI Gym
     4. Hardware – GPUs, Edge devices
     5. RL Libraries – Tensor force, Keras-RL
     6. Cloud based RL platforms 	
@@ -119,3 +125,5 @@
 2. (https://www.crunchbase.com/organization/h2o-2)
 3. (https://chatgpt.com/)
 4. (https://enlyft.com/tech/products/h2o)
+5. (https://finance.yahoo.com/news/h2o-ai-emerges-leader-computer-235200436.html)
+6. (https://forgeglobal.com/h2o-ai_ipo/)
