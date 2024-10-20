@@ -84,6 +84,7 @@
     4.	**Market share:** In the Artificial Intelligence category, H2O has a market share of about 0.1%. 
 
 * How is your company performing relative to competitors in the same field?
+  
    H2O.ai performs well in several areas, especially in terms of open-source adoption, AutoML, explainability, and cost-effectiveness. Its strength lies in providing advanced ML capabilities to data scientists while maintaining flexibility in deployment options. However, it faces tough competition from larger cloud providers like Google, Microsoft, and Amazon, which dominate enterprise-level AI/ML deployments due to their vast ecosystems, cloud-native services, and seamless integrations.
   To maintain its competitive edge, H2O.ai must continue innovating in its core areas of strength—AutoML, explainable AI, and deployment flexibility—while improving its enterprise support, cloud-native offerings, and user-friendliness for non-technical teams.
   
