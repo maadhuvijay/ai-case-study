@@ -29,10 +29,12 @@
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?  
+* What specific problem is the company or project trying to solve?
+  
     H2O.ai is a leading open-source platform for artificial intelligence (AI) and machine learning. The company offers a suite of products designed to make AI accessible and scalable for businesses, ranging from startups to Fortune 500 companies.
   
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?  
+* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+  
     H2O.ai is the trusted AI partner to more than 20,000 global organizations, including AT&T, Allergan, Bon Secours Mercy Health, Capital One, Commonwealth Bank of Australia, GlaxoSmithKline, Hitachi, Kaiser Permanente, Procter & Gamble, PayPal, PwC, Reckitt, Unilever, and Walgreens, over half of the Fortune 500 and one million data scientists. In the Artificial Intelligence category, H2O has a market share of about 0.1%. 
 
 * What solution does this company offer that their competitors do not or cannot offer?   
@@ -52,10 +54,12 @@
 
 ## Landscape
 
-* What field is the company in? 
+* What field is the company in?
+  
   Founded in 2012, H2O.ai is at the forefront of the AI movement to democratize Generative AI. H2O.ai’s open source          Generative AI and Enterprise h2oGPTe, combined with Document AI and the award-winning autoML Driverless AI, have           transformed more than 20,000 global organizations and over half of the Fortune 500 and household brands, including         AT&T, Commonwealth Bank of Australia, PayPal, Chipotle, ADP, Workday, Progressive Insurance and AES. H2O.ai’s AI for       Good program supports nonprofit groups, foundations and communities in their efforts to advance education,                 healthcare, and environmental conservation, including identifying areas vulnerable to natural disasters and                protecting endangered species. H2O.ai has a vibrant community of 2 million data scientists worldwide, and aims to          bring together the world’s top data scientists with customers to co-create GenAI applications that are usable and          valuable by everyone. Business users can now leverage the power of LLMs to enhance productivity with enterprise            applications.
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?  
+* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+  
     1.	Google integrated AI across its product suite (eg-search, advertising, Google assistant) with projects like Tensorflow being widely used in machine learning development.
     2.	OpenAI developed GPT models (including GPT-4) and Codex, which powers tools like GitHub Copilot
     3.	IBM’s Watson AI focuses on applying AI to business solutions, particularly in areas such as healthcare, finance and customer service.
@@ -68,10 +72,12 @@
 
 ## Results
 
-* What has been the business impact of this company so far?  
+* What has been the business impact of this company so far?
+  
     H2O.ai is growing as evidenced by the inauguration of GenAI World for the public sector, which is aimed at fostering growth and innovation in generative AI for government departments and agencies. This initiative represents an expansion of operations and a strategic move to tap into the public sector market. Additionally, the company's inclusion in the list of top AI companies for 2024 suggests recognition in the industry and potential for increased market presence. The focus on generative AI, a cutting-edge field within artificial intelligence, indicates an investment in new product development and innovation.
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+  
     1.	**Funding:** H20.ai raised around $251.1 million in funding over 9 rounds with notable investors such as Commonwealth Bank of Australia and Goldman Sachs Growth Equity.
     2.	**Revenue Model:** Primarily, the company generates revenue through enterprise subscriptions for its advanced offerings, such as H2O Driverless AI. Additionally, H2O.ai monetizes through professional services providing AI solutions and consulting to help businesses solve specific challenges and optimize their operations.
     3.	**Company size:** As of 2024, the company has around 376 employees, showing significant growth since its founding in 2021.
@@ -114,7 +120,7 @@
     7. Keras-RL: This library integrates with Keras, allowing users to easily implement RL algorithms such as DQN and Deep Deterministic Policy Gradient (DDPG) with Keras models.
     8. AWS SageMaker RL: Amazon provides cloud-based reinforcement learning as a service via SageMaker, enabling users to train RL models at scale using various environments, including OpenAI Gym, Unity, and custom simulations.
        
-*References*
+***References***
 1. [H2O.ai](https://h2o.ai/)
 2. (https://www.crunchbase.com/organization/h2o-2)
 3. (https://chatgpt.com/)
