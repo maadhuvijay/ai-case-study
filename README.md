@@ -3,10 +3,10 @@
 ## Overview and Origin
 
 * Name of company  
-    **H2O.ai** is an AI cloud company on a mission to democratize AI for everyone. Customers use the H2O AI Cloud platform to rapidly make, operate and innovate to solve complex business problems and accelerate the discovery of new ideas
+    **H2O.ai** is an AI cloud company on a mission to democratize AI for everyone. Customers use the H2O AI Cloud platform to rapidly make, operate and innovate to solve complex business problems and accelerate the discovery of new ideas.
   
 * When was the company incorporated?  
-    H2O.ai was founded in 2012. The company is headquartered in Mountain view, California
+    H2O.ai was founded in 2012. The company is headquartered in Mountain view, California.
   
 * Who are the founders of the company?  
     H2O.ai was founded by Sri Ambati, along with Cliff Click.
@@ -29,23 +29,20 @@
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
-  
+* What specific problem is the company or project trying to solve?  
     H2O.ai is a leading open-source platform for artificial intelligence (AI) and machine learning. The company offers a suite of products designed to make AI accessible and scalable for businesses, ranging from startups to Fortune 500 companies.
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
   
+* Who is the company's intended customer? Is there any information about the market size of this set of customers?  
     H2O.ai is the trusted AI partner to more than 20,000 global organizations, including AT&T, Allergan, Bon Secours Mercy Health, Capital One, Commonwealth Bank of Australia, GlaxoSmithKline, Hitachi, Kaiser Permanente, Procter & Gamble, PayPal, PwC, Reckitt, Unilever, and Walgreens, over half of the Fortune 500 and one million data scientists. In the Artificial Intelligence category, H2O has a market share of about 0.1%. 
 
-* What solution does this company offer that their competitors do not or cannot offer? 
-  
+* What solution does this company offer that their competitors do not or cannot offer?   
     1.  Open-source ML platform 
     2.  AutoML with Explainable AI – focus on explainable AI (XAI) for better transparency and compliance.
     3.  Deep customization and flexibility for expert users, enabling control over AutoML pipelines.
     4.  Comprehensive AI cloud Ecosystem which integrates with enterprise workflows and allows companies to manage their           entire AI lifecycle in one place.
     5.  Democratized AI solutions that cater to both technical and non-technical users.
        
-* Which technologies are they currently using, and how are they implementing them? 
-  
+* Which technologies are they currently using, and how are they implementing them?   
     1. H2O open source (H2O-3): Java based and integrates with various programming languages and tools, including: Python, 
        R, and H2O flow.
     2. H2O Driverless AI - Automated Machine Learning (AutoML), GPU Acceleration, Explainable AI(XAI).
@@ -55,12 +52,10 @@
 
 ## Landscape
 
-* What field is the company in?
- 
+* What field is the company in? 
   Founded in 2012, H2O.ai is at the forefront of the AI movement to democratize Generative AI. H2O.ai’s open source          Generative AI and Enterprise h2oGPTe, combined with Document AI and the award-winning autoML Driverless AI, have           transformed more than 20,000 global organizations and over half of the Fortune 500 and household brands, including         AT&T, Commonwealth Bank of Australia, PayPal, Chipotle, ADP, Workday, Progressive Insurance and AES. H2O.ai’s AI for       Good program supports nonprofit groups, foundations and communities in their efforts to advance education,                 healthcare, and environmental conservation, including identifying areas vulnerable to natural disasters and                protecting endangered species. H2O.ai has a vibrant community of 2 million data scientists worldwide, and aims to          bring together the world’s top data scientists with customers to co-create GenAI applications that are usable and          valuable by everyone. Business users can now leverage the power of LLMs to enhance productivity with enterprise            applications.
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-  
+* What have been the major trends and innovations of this field over the last 5&ndash;10 years?  
     1.	Google integrated AI across its product suite (eg-search, advertising, Google assistant) with projects like Tensorflow being widely used in machine learning development.
     2.	OpenAI developed GPT models (including GPT-4) and Codex, which powers tools like GitHub Copilot
     3.	IBM’s Watson AI focuses on applying AI to business solutions, particularly in areas such as healthcare, finance and customer service.
@@ -68,25 +63,24 @@
     5.	Microsoft AI supports products like Azure AI, Power BI and Microsoft 365, focusing on natural language processing, machine learning and AI-driven business intelligence.
     6.	H2O.ai is used for predictive analytics, fraud detection, and customer churn prediction.
 
-* What are the other major companies in this field?
-  
-    Alternatives and other companies in this field as H20.ai are include AWS SageMaker, Google cloud, Wave Computing, Arize AI, and Utilidata.
+* What are the other major companies in this field?  
+    Alternatives and other competitors in this field as H20.ai are include AWS SageMaker, Google cloud, Microsoft Azure ML, Wave Computing, Arize AI, and Utilidata.
 
 ## Results
 
-* What has been the business impact of this company so far?
-  
+* What has been the business impact of this company so far?  
     H2O.ai is growing as evidenced by the inauguration of GenAI World for the public sector, which is aimed at fostering growth and innovation in generative AI for government departments and agencies. This initiative represents an expansion of operations and a strategic move to tap into the public sector market. Additionally, the company's inclusion in the list of top AI companies for 2024 suggests recognition in the industry and potential for increased market presence. The focus on generative AI, a cutting-edge field within artificial intelligence, indicates an investment in new product development and innovation.
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
     1.	**Funding:** H20.ai raised around $251.1 million in funding over 9 rounds with notable investors such as Commonwealth Bank of Australia and Goldman Sachs Growth Equity.
     2.	**Revenue Model:** Primarily, the company generates revenue through enterprise subscriptions for its advanced offerings, such as H2O Driverless AI. Additionally, H2O.ai monetizes through professional services providing AI solutions and consulting to help businesses solve specific challenges and optimize their operations.
     3.	**Company size:** As of 2024, the company has around 376 employees, showing significant growth since its founding in 2021.
     4.	**Market share:** In the Artificial Intelligence category, H2O has a market share of about 0.1%. 
 
 * How is your company performing relative to competitors in the same field?
-
+   H2O.ai performs well in several areas, especially in terms of open-source adoption, AutoML, explainability, and cost-effectiveness. Its strength lies in providing advanced ML capabilities to data scientists while maintaining flexibility in deployment options. However, it faces tough competition from larger cloud providers like Google, Microsoft, and Amazon, which dominate enterprise-level AI/ML deployments due to their vast ecosystems, cloud-native services, and seamless integrations.
+  To maintain its competitive edge, H2O.ai must continue innovating in its core areas of strength—AutoML, explainable AI, and deployment flexibility—while improving its enterprise support, cloud-native offerings, and user-friendliness for non-technical teams.
+  
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
