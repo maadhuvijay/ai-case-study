@@ -94,7 +94,7 @@ H2O.ai can tie into Reinforcement learning with the below technologies
 7. *Keras-RL*: This library integrates with Keras, allowing users to easily implement RL algorithms such as DQN and Deep Deterministic Policy Gradient (DDPG) with Keras models.
 8. *AWS SageMaker RL*: Amazon provides cloud-based reinforcement learning as a service via SageMaker, enabling users to train RL models at scale using various environments, including OpenAI Gym, Unity, and custom simulations.
        
-***References***
+## References
 1. [H2O.ai](https://h2o.ai/)
 2. (https://www.crunchbase.com/organization/h2o-2)
 3. (https://chatgpt.com/)
